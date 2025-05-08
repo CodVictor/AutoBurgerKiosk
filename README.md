@@ -8,7 +8,7 @@
 
 ## 👥 Equipo
 
-- **Víctor Hugo Oliveira Petroceli**
+- **Víctor Hugo**
 
 ---
 
