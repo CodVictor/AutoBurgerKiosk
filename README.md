@@ -18,11 +18,6 @@
 - [Funcionamiento](#-funcionamiento)
 - [Roles del Sistema](#-roles-del-sistema)
 - [Tecnologías Usadas](#-tecnologías-usadas)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [Ejecución](#-ejecución)
-- [Pruebas](#-pruebas)
-- [Documentación](#-documentación)
-- [FAQ](#-faq)
 
 ---
 
@@ -47,15 +42,13 @@
 ## 🛠️ Roles del Sistema
 
 - **Cliente**: Interactúa con la interfaz para realizar pedidos y pagar.
-- **Administrador (opcional)**: Puede configurar el menú o ver estadísticas (en futuras versiones).
 
 ---
 
 ## 💻 Tecnologías Usadas
 
 - Lenguaje: `Java`
-- Interfaz: `Swing` (o tu framework preferido)
-- Persistencia: Archivos locales / JSON / DB (según implementación)
+- Interfaz: `Swing` 
 
 ---
 
